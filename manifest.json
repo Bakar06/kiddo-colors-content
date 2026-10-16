@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "remote_sun1",
+      "cat": "free",
+      "names": "Gülen Güneş|Smiling Sun|Lächelnde Sonne|Sol Sonriente|Soleil Souriant|Sol Sorridente|Улыбающееся солнце",
+      "premium": false,
+      "image": "images/sample_sun.png"
+    }
+  ]
+}
